@@ -27,18 +27,24 @@ This Task Management App is built using Node.js and Express.js and is designed t
 To set up the project locally for development or testing purposes, follow these steps:
 
 1. Clone the repository:
-   git clone  https://github.com/BPavanVenkataSai/Task-Management-app.git
-   cd Task-Management-app
+   
+   - git clone  https://github.com/BPavanVenkataSai/Task-Management-app.git
+   - cd Task-Management-app
+ 
 2. Install project dependencies:
-   npm install
+   
+   - npm install
+     
 3. Configure your environment variables:
    Create a .env file based on the provided .env.example.
    Fill in the required configuration settings such as database connection details and secret keys.
 4. Set up the database:
    Create a database schema and tables as per the project's database design.
 5. Start the development server:
-   npm start
-6. Access the app in your browser at http://localhost:3000.
+   
+   - npm start
+     
+7. Access the app in your browser at http://localhost:3000.
    
 ## Usage
 Provide instructions on how to use the app, including how to:
@@ -59,12 +65,12 @@ We welcome contributions from the community! To contribute to this project, foll
 
 3. Create a new branch for your feature or bugfix:
 
-   git checkout -b feature/my-new-feature
+   - git checkout -b feature/my-new-feature
 
 5. Commit your changes and push them to your GitHub repository:
 
-   git commit -m "Add my new feature"
-   git push origin feature/my-new-feature
+   - git commit -m "Add my new feature"
+   - git push origin feature/my-new-feature
 
 7. Create a pull request on the original repository, explaining your changes and why they should be merged.
 
