@@ -12,6 +12,7 @@ Welcome to the Task Management App! This project is currently under construction
 
 ## Project Overview
 This Task Management App is built using Node.js and Express.js and is designed to help users organize their tasks effectively. It is a work in progress and not suitable for production use at this stage.
+Tested Endpoints using PortMan. MongoDB is used for databases.
 
 **Note:** Please keep in mind that this README may not reflect the current state of the project, as it is under development.
 
