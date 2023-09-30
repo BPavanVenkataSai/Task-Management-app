@@ -40,7 +40,7 @@ To set up the project locally for development or testing purposes, follow these 
    npm start
 6. Access the app in your browser at http://localhost:3000.
    
-##Usage
+## Usage
 Provide instructions on how to use the app, including how to:
 
 - Register an account
@@ -50,7 +50,7 @@ Provide instructions on how to use the app, including how to:
 - Edit user profile
 - Any other relevant usage information
 
-##Contributing
+## Contributing
 We welcome contributions from the community! To contribute to this project, follow these steps:
 
 1. Fork the repository to your GitHub account.
@@ -68,6 +68,6 @@ We welcome contributions from the community! To contribute to this project, foll
 
 6. Your pull request will be reviewed by project maintainers, and once approved, it will be merged into the main branch.
 
-##License
+## License
 This project is licensed under the MIT License. By contributing to this project, you agree to abide by its terms and conditions.
 
