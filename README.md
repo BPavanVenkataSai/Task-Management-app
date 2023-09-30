@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Task-Management-app
-# Task-Management-app
-# Task-Management-app
-=======
 # Task Management App (Under Construction)
 
 Welcome to the Task Management App! This project is currently under construction and aims to provide a robust solution for managing tasks efficiently. This README provides essential information about the project's structure, features, and how to contribute.
@@ -75,5 +70,3 @@ We welcome contributions from the community! To contribute to this project, foll
 
 ## License
 This project is licensed under the MIT License. By contributing to this project, you agree to abide by its terms and conditions.
-
->>>>>>> a8e343f64550c65bbf7f6a4f16655b16d9eb6739
