@@ -16,12 +16,12 @@ This Task Management App is built using Node.js and Express.js and is designed t
 **Note:** Please keep in mind that this README may not reflect the current state of the project, as it is under development.
 
 ## Features
-- [x] User registration and authentication
-- [ ] Task creation and management
-- [ ] Task prioritization
-- [ ] Task due date tracking
-- [ ] User profile management
-- [ ] Collaborative task lists (future feature)
+- User registration and authentication
+- Task creation and management
+- Task prioritization
+- Task due date tracking
+- User profile management
+- Collaborative task lists (future feature)
 
 ## Getting Started
 To set up the project locally for development or testing purposes, follow these steps:
