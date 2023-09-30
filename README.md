@@ -58,15 +58,17 @@ We welcome contributions from the community! To contribute to this project, foll
 2. Clone your forked repository to your local machine.
 
 3. Create a new branch for your feature or bugfix:
+
    git checkout -b feature/my-new-feature
 
-4. Commit your changes and push them to your GitHub repository:
+5. Commit your changes and push them to your GitHub repository:
+
    git commit -m "Add my new feature"
    git push origin feature/my-new-feature
 
-5. Create a pull request on the original repository, explaining your changes and why they should be merged.
+7. Create a pull request on the original repository, explaining your changes and why they should be merged.
 
-6. Your pull request will be reviewed by project maintainers, and once approved, it will be merged into the main branch.
+8. Your pull request will be reviewed by project maintainers, and once approved, it will be merged into the main branch.
 
 ## License
 This project is licensed under the MIT License. By contributing to this project, you agree to abide by its terms and conditions.
