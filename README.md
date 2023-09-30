@@ -27,8 +27,8 @@ This Task Management App is built using Node.js and Express.js and is designed t
 To set up the project locally for development or testing purposes, follow these steps:
 
 1. Clone the repository:
-   git clone  
-   cd your-task-app
+   git clone  https://github.com/BPavanVenkataSai/Task-Management-app.git
+   cd Task-Management-app
 2. Install project dependencies:
    npm install
 3. Configure your environment variables:
